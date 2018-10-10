@@ -9,7 +9,7 @@ import (
 	"log"
 )
 
-const SENGRID_API_KEY = "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"
+const SENGRID_API_KEY = "aaabbbccc"
 
 type Email struct {
 	APIKey       string
